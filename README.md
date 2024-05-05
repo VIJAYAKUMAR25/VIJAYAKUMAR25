@@ -2,7 +2,7 @@
 
 # Hi! My name is Vijayakumar.S 😄
 
-### 🌍  I am a UI/Full stack MERN React Developer based in Salem, TN.
+### 🌍  I am a UI/Full Stack MERN React Developer based in Salem, TN.
 ## Skills
 
 [![HTML](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
